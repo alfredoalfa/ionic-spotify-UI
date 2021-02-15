@@ -6,6 +6,7 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { SharedDirectivesModule } from './directives/shared-directives.module';
 
 @NgModule({
   declarations: [AppComponent],
